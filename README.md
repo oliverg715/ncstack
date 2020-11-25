@@ -1,2 +1,2 @@
 # ncstack
-A set of files for simple nextcloud deployment in a docker environment
+A fileset for a nextcloud deployment in a docker environment
